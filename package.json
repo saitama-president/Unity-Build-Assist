@@ -1,0 +1,17 @@
+{
+  "name": "unity-build-assist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saitama-president",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.16.0",
+    "@types/typescript": "^2.0.0",
+    "express": "^4.16.3",
+    "typescript": "^3.1.1"
+  }
+}
